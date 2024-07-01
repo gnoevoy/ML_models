@@ -7,12 +7,7 @@ The goal of this project is to develop classification models that accurately pre
 ### delivery time prediction - sample text 
 The goal of this project is to develop predictive models that accurately estimate the delivery time duration from the moment an order is received by a restaurant to its delivery to the customer.
 
-
-
-### ideas
-1. customer segmentation (customer categories)
-2. outliers detection (financial operations)
-3. recommendation system (e-commerce products)
+### customers_segmentation - sample text 
 
 
 
