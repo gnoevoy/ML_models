@@ -1,6 +1,4 @@
-img here
-
-## Projects:
+# Projects:
 
 ### [credit risk classification](https://github.com/gnoevoy/data_analysis_projects/tree/main/credit_risk_classification)
 The goal of this project is to develop classification models that accurately predict the credit risk level of customers based on their profiles. Specifically, the models should be focused on identifying customers with "poor" credit to avoid granting loans to these high-risk individuals.
